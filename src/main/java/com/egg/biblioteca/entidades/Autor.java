@@ -14,6 +14,7 @@ public class Autor {
     private String id;
     private String nombre;
     //private String nombre1;
+    //private String nombre2;
 
     public Autor() {
     }
