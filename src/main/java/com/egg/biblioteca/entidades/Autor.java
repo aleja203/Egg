@@ -13,6 +13,7 @@ public class Autor {
     @GenericGenerator(name = "uuid", strategy = "uuid2")
     private String id;
     private String nombre;
+    //private String nombre1;
 
     public Autor() {
     }
