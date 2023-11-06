@@ -15,6 +15,7 @@ public class Autor {
     private String nombre;
     //private String nombre1;
     //private String nombre2;
+    private String Alejandro;
 
     public Autor() {
     }
